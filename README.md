@@ -16,3 +16,5 @@ Taken from forum post https://forums.flightsimulator.com/t/pros-and-cons-of-the-
 * Fuel pump sound missing
 * Prop Drag
 * Seats and weight distribution
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="captmatto" data-color="#5F7FFF" data-emoji="🍺" data-font="Cookie" data-text="Buy me a beer" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>

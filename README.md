@@ -1,5 +1,7 @@
 # G58 Improvement Project
 
+## This is a WIP project and definitely not ready to download or test!
+
 **Items to Investigate**
 * @CerealThread201 - https://forums.flightsimulator.com/t/pros-and-cons-of-the-baron-g58/335280/4
 * @JuiceBox7535 - Feathering & Air starts https://forums.flightsimulator.com/t/pros-and-cons-of-the-baron-g58/335280/9

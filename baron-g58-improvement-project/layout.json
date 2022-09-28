@@ -1,1184 +1,1119 @@
 {
   "content": [
     {
-      "path": "de-DE.locPak",
-      "size": 1577,
-      "date": 133003086818748620
-    },
-    {
       "path": "en-US.locPak",
       "size": 1328,
-      "date": 133003086818738649
+      "date": 133082507265509653
     },
     {
-      "path": "es-ES.locPak",
-      "size": 1447,
-      "date": 133003086818728693
-    },
-    {
-      "path": "es-MX.locPak",
-      "size": 1449,
-      "date": 133003086818738649
-    },
-    {
-      "path": "fi-FI.locPak",
-      "size": 1353,
-      "date": 133003086818748620
-    },
-    {
-      "path": "fr-FR.locPak",
-      "size": 1518,
-      "date": 133003086818748620
-    },
-    {
-      "path": "it-IT.locPak",
-      "size": 1496,
-      "date": 133003086818748620
-    },
-    {
-      "path": "ja-JP.locPak",
-      "size": 1780,
-      "date": 133003086818728693
-    },
-    {
-      "path": "nb-NO.locPak",
-      "size": 1475,
-      "date": 133003086818748620
-    },
-    {
-      "path": "nl-NL.locPak",
-      "size": 1400,
-      "date": 133003086818738649
-    },
-    {
-      "path": "pl-PL.locPak",
-      "size": 1680,
-      "date": 133003086818728693
-    },
-    {
-      "path": "pt-BR.locPak",
-      "size": 1430,
-      "date": 133003086818718688
-    },
-    {
-      "path": "pt-PT.locPak",
-      "size": 1417,
-      "date": 133003086818728693
-    },
-    {
-      "path": "ru-RU.locPak",
-      "size": 2327,
-      "date": 133003086818738649
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/ai.cfg",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/ai.cfg",
       "size": 739,
-      "date": 132410212820000000
+      "date": 133082507265559645
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/aircraft.cfg",
-      "size": 3173,
-      "date": 132826566230000000
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/aircraft.cfg",
+      "size": 3147,
+      "date": 133086911001762017
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/Approach.flt",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/Approach.flt",
       "size": 3309,
-      "date": 132602939070000000
+      "date": 133082507265559645
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/apron.flt",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/apron.flt",
       "size": 3433,
-      "date": 132998074960000000
+      "date": 133082507265559645
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/cameras.cfg",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/cameras.cfg",
       "size": 25439,
-      "date": 132881083700000000
+      "date": 133082507265569657
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/Climb.flt",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/Climb.flt",
       "size": 3310,
-      "date": 132602939140000000
+      "date": 133082507265569657
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/cockpit.cfg",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/cockpit.cfg",
       "size": 4768,
-      "date": 132688416670000000
+      "date": 133082507265569657
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/Cruise.flt",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/Cruise.flt",
       "size": 3310,
-      "date": 132602939170000000
+      "date": 133082507265579645
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/engines.cfg",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/engines.cfg",
       "size": 11027,
-      "date": 132567447930000000
+      "date": 133082507265579645
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/Final.flt",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/Final.flt",
       "size": 3305,
-      "date": 132602939200000000
+      "date": 133082507265579645
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/flight_model.cfg",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/flight_model.cfg",
       "size": 15960,
-      "date": 132796395210000000
+      "date": 133082507265589652
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/gameplay.cfg",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/gameplay.cfg",
       "size": 1151,
-      "date": 132001537980000000
+      "date": 133082507265589652
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/hangar.flt",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/hangar.flt",
       "size": 3307,
-      "date": 132602939230000000
+      "date": 133082507265589652
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/model/Baron_interior_LOD01.bin",
-      "size": 7826568,
-      "date": 133003086748297523
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/model/Baron_interior_LOD01.gltf",
-      "size": 719373,
-      "date": 133003086748327425
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/model/Baron_interior_LOD02.bin",
-      "size": 1525804,
-      "date": 133003086751690852
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/model/Baron_interior_LOD02.gltf",
-      "size": 364926,
-      "date": 133003086751710840
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/model/Baron_interior_LOD03.bin",
-      "size": 355562,
-      "date": 133003086753151873
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/model/Baron_interior_LOD03.gltf",
-      "size": 65055,
-      "date": 133003086753161901
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/model/Baron_interior_LOD04.bin",
-      "size": 121130,
-      "date": 133003086753831620
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/model/Baron_interior_LOD04.gltf",
-      "size": 9963,
-      "date": 133003086753842511
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/model/Baron_interior_LOD06.bin",
-      "size": 240,
-      "date": 133003086754385787
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/model/Baron_interior_LOD06.gltf",
-      "size": 2520,
-      "date": 133003086754385787
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/model/Baron_LOD01.bin",
-      "size": 8074772,
-      "date": 133003086803842230
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/model/Baron_LOD01.gltf",
-      "size": 256350,
-      "date": 133003086803862176
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/model/Baron_LOD02.bin",
-      "size": 3873228,
-      "date": 133003086807140994
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/model/Baron_LOD02.gltf",
-      "size": 241172,
-      "date": 133003086807152015
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/model/Baron_LOD03.bin",
-      "size": 2722266,
-      "date": 133003086809540847
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/model/Baron_LOD03.gltf",
-      "size": 229863,
-      "date": 133003086809562452
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/model/Baron_LOD04.bin",
-      "size": 2542464,
-      "date": 133003086811781279
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/model/Baron_LOD04.gltf",
-      "size": 224767,
-      "date": 133003086811801184
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/model/Baron_LOD06.bin",
-      "size": 6942,
-      "date": 133003086812597012
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/model/Baron_LOD06.gltf",
-      "size": 2614,
-      "date": 133003086812597012
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/model/model.CFG",
-      "size": 878,
-      "date": 132199538080000000
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/Notice.txt",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/Notice.txt",
       "size": 170,
-      "date": 132325540480000000
+      "date": 133082507266629690
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/panel/panel.cfg",
-      "size": 1003,
-      "date": 132979397820000000
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/rtc/animations/PlaneShowcase_COCKPIT.bin",
-      "size": 73192,
-      "date": 133003086755004374
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/rtc/animations/PlaneShowcase_COCKPIT.gltf",
-      "size": 14599,
-      "date": 133003086755004374
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/rtc/animations/PlaneShowcase_GROUND.bin",
-      "size": 71432,
-      "date": 133003086755149176
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/rtc/animations/PlaneShowcase_GROUND.gltf",
-      "size": 14692,
-      "date": 133003086755149176
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/rtc/definitions/RTC_Hangar.spb",
-      "size": 1762,
-      "date": 133003086754917163
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/runway.FLT",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/runway.FLT",
       "size": 3200,
-      "date": 132602939270000000
+      "date": 133082507266649693
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/sound/Asobo_Baron_G58.PC.PCK",
-      "size": 114527325,
-      "date": 132694282360000000
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/soundai/Asobo_Baron_G58_AI.PC.PCK",
-      "size": 16014418,
-      "date": 132344633400000000
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/systems.cfg",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/systems.cfg",
       "size": 12341,
-      "date": 132388488380000000
+      "date": 133082507270739856
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/target_performance.cfg",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/target_performance.cfg",
       "size": 1822,
-      "date": 131955753700000000
+      "date": 133082507270749844
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/taxi.flt",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/taxi.flt",
       "size": 3175,
-      "date": 132602939350000000
+      "date": 133082507270749844
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/baron_airframe_logos_albd.tif.DDS",
-      "size": 5592560,
-      "date": 133003086511220417
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/model/Baron.xml",
+      "size": 4796,
+      "date": 133086204000000000
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/baron_airframe_logos_albd.tif.DDS.json",
-      "size": 119,
-      "date": 133003086511190497
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/model/Baron_interior.xml",
+      "size": 28589,
+      "date": 133086204000000000
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Engine_albd.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/model/Baron_interior_LOD00.bin",
+      "size": 12670212,
+      "date": 133086204000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/model/Baron_interior_LOD00.gltf",
+      "size": 804293,
+      "date": 133086204000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/model/Baron_interior_LOD01.bin",
+      "size": 7826568,
+      "date": 133086204000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/model/Baron_interior_LOD01.gltf",
+      "size": 719373,
+      "date": 133086204000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/model/Baron_interior_LOD02.bin",
+      "size": 1525804,
+      "date": 133086204000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/model/Baron_interior_LOD02.gltf",
+      "size": 364926,
+      "date": 133086204000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/model/Baron_interior_LOD03.bin",
+      "size": 355562,
+      "date": 133086204000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/model/Baron_interior_LOD03.gltf",
+      "size": 65055,
+      "date": 133086204000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/model/Baron_interior_LOD04.bin",
+      "size": 121130,
+      "date": 133086204000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/model/Baron_interior_LOD04.gltf",
+      "size": 9963,
+      "date": 133086204000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/model/Baron_interior_LOD06.bin",
+      "size": 240,
+      "date": 133086204000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/model/Baron_interior_LOD06.gltf",
+      "size": 2520,
+      "date": 133086204000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/model/Baron_LOD00.bin",
+      "size": 9881192,
+      "date": 133086204000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/model/Baron_LOD00.gltf",
+      "size": 259918,
+      "date": 133086204000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/model/Baron_LOD01.bin",
+      "size": 8074772,
+      "date": 133086204000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/model/Baron_LOD01.gltf",
+      "size": 256350,
+      "date": 133086204000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/model/Baron_LOD02.bin",
+      "size": 3873228,
+      "date": 133086204000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/model/Baron_LOD02.gltf",
+      "size": 241172,
+      "date": 133086204000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/model/Baron_LOD03.bin",
+      "size": 2722266,
+      "date": 133086204000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/model/Baron_LOD03.gltf",
+      "size": 229863,
+      "date": 133086204000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/model/Baron_LOD04.bin",
+      "size": 2542464,
+      "date": 133086204000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/model/Baron_LOD04.gltf",
+      "size": 224767,
+      "date": 133086204000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/model/Baron_LOD06.bin",
+      "size": 6942,
+      "date": 133086204000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/model/Baron_LOD06.gltf",
+      "size": 2614,
+      "date": 133086204000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/model/model.CFG",
+      "size": 878,
+      "date": 133086204000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/panel/panel.cfg",
+      "size": 1003,
+      "date": 133082507266629690
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/rtc/animations/PlaneShowcase_COCKPIT.bin",
+      "size": 73192,
+      "date": 133082507266639689
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/rtc/animations/PlaneShowcase_COCKPIT.gltf",
+      "size": 14599,
+      "date": 133082507266639689
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/rtc/animations/PlaneShowcase_GROUND.bin",
+      "size": 71432,
+      "date": 133082507266649693
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/rtc/animations/PlaneShowcase_GROUND.gltf",
+      "size": 14692,
+      "date": 133082507266649693
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/rtc/definitions/RTC_Hangar.spb",
+      "size": 1762,
+      "date": 133082507266649693
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_ENGINE_ALBD.PNG.DDS",
       "size": 699192,
-      "date": 133003086545437433
+      "date": 133082507270869857
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Engine_albd.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_ENGINE_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 133003086545427461
+      "date": 133082507270869857
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Engine_comp.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_ENGINE_COMP.PNG.DDS",
       "size": 1398276,
-      "date": 133003086550450369
+      "date": 133082507270939822
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Engine_comp.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_ENGINE_COMP.PNG.DDS.FLAGS",
       "size": 21,
-      "date": 132648784190000000
+      "date": 133082507270949823
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Engine_comp.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_ENGINE_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 133003086550450369
+      "date": 133082507270949823
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Engine_norm.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_ENGINE_NORM.PNG.DDS",
       "size": 87536,
-      "date": 133003086550499965
+      "date": 133082507270949823
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Engine_norm.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_ENGINE_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 133003086550489952
+      "date": 133082507270959839
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_FuelCap_ALBD.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_FUELCAP_ALBD.PNG.DDS",
       "size": 5592560,
-      "date": 133003086539543946
+      "date": 133082507271009841
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_FuelCap_ALBD.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_FUELCAP_ALBD.PNG.DDS.FLAGS",
       "size": 18,
-      "date": 132246928260000000
+      "date": 133082507271049761
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_FuelCap_ALBD.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_FUELCAP_ALBD.PNG.DDS.json",
       "size": 119,
-      "date": 133003086539524000
+      "date": 133082507271049761
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_FuelCap_COMP.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_FUELCAP_COMP.PNG.DDS",
       "size": 1398276,
-      "date": 133003086543375625
+      "date": 133082507271059752
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_FuelCap_COMP.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_FUELCAP_COMP.PNG.DDS.FLAGS",
       "size": 21,
-      "date": 132648784190000000
+      "date": 133082507271069773
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_FuelCap_COMP.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_FUELCAP_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 133003086543365230
+      "date": 133082507271079833
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_FuelCap_NORM.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_FUELCAP_NORM.PNG.DDS",
       "size": 1398256,
-      "date": 133003086544296914
+      "date": 133082507271089837
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_FuelCap_NORM.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_FUELCAP_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 133003086544296914
+      "date": 133082507271099824
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Fuselage_albd.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
       "size": 174904,
-      "date": 133003086755410730
+      "date": 133082507271109828
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Fuselage_albd.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 133003086755400757
+      "date": 133082507271109828
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Fuselage_comp.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_FUSELAGE_COMP.PNG.DDS",
       "size": 5592580,
-      "date": 133003086770500136
+      "date": 133082507271279873
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Fuselage_comp.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_FUSELAGE_COMP.PNG.DDS.FLAGS",
       "size": 21,
-      "date": 132648784190000000
+      "date": 133082507271309864
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Fuselage_comp.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_FUSELAGE_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 133003086770473685
+      "date": 133082507271309864
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Fuselage_norm.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_FUSELAGE_NORM.PNG.DDS",
       "size": 5592560,
-      "date": 133003086501754383
+      "date": 133082507271429863
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Fuselage_norm.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_FUSELAGE_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 133003086501724458
+      "date": 133082507271459872
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_GlassTint_albd.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_GLASSTINT_ALBD.PNG.DDS",
       "size": 21992,
-      "date": 133003086527768181
+      "date": 133082507271469874
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_GlassTint_albd.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_GLASSTINT_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 133003086527758202
+      "date": 133082507271469874
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Grip_albd.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_GRIP_ALBD.PNG.DDS",
       "size": 174904,
-      "date": 133003086511550970
+      "date": 133082507271499878
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Grip_albd.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_GRIP_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 133003086511550970
+      "date": 133082507271499878
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Grip_comp.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_GRIP_COMP.PNG.DDS",
       "size": 349700,
-      "date": 133003086513816628
+      "date": 133082507271509788
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Grip_comp.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_GRIP_COMP.PNG.DDS.FLAGS",
       "size": 21,
-      "date": 132648784190000000
+      "date": 133082507271519847
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Grip_comp.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_GRIP_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 133003086513804725
+      "date": 133082507271519847
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Grip_norm.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_GRIP_NORM.PNG.DDS",
       "size": 349680,
-      "date": 133003086513947569
+      "date": 133082507271540134
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Grip_norm.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_GRIP_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 133003086513947569
+      "date": 133082507271540134
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_landing_f_albd.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_LANDING_F_ALBD.PNG.DDS",
       "size": 699192,
-      "date": 133003086515222742
+      "date": 133082507271569880
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_landing_f_albd.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_LANDING_F_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 133003086515212765
+      "date": 133082507271579874
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_landing_f_comp.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_LANDING_F_COMP.PNG.DDS",
       "size": 1398276,
-      "date": 133003086520474996
+      "date": 133082507271629879
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_landing_f_comp.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_LANDING_F_COMP.PNG.DDS.FLAGS",
       "size": 21,
-      "date": 132648784190000000
+      "date": 133082507271649812
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_landing_f_comp.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_LANDING_F_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 133003086520461644
+      "date": 133082507271649812
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_landing_f_norm.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_LANDING_F_NORM.PNG.DDS",
       "size": 1398256,
-      "date": 133003086521012312
+      "date": 133082507271690216
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_landing_f_norm.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_LANDING_F_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 133003086521002339
+      "date": 133082507271700139
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_landing_r_albd.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_LANDING_R_ALBD.PNG.DDS",
       "size": 699192,
-      "date": 133003086529723610
+      "date": 133082507271730141
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_landing_r_albd.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_LANDING_R_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 133003086529723610
+      "date": 133082507271730141
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_landing_r_comp.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_LANDING_R_COMP.PNG.DDS",
       "size": 1398276,
-      "date": 133003086535476697
+      "date": 133082507271790147
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_landing_r_comp.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_LANDING_R_COMP.PNG.DDS.FLAGS",
       "size": 21,
-      "date": 132648784190000000
+      "date": 133082507271800176
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_landing_r_comp.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_LANDING_R_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 133003086535466387
+      "date": 133082507271800176
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_landing_r_norm.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_LANDING_R_NORM.PNG.DDS",
       "size": 1398256,
-      "date": 133003086536023341
+      "date": 133082507271849948
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_landing_r_norm.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_LANDING_R_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 133003086536023341
+      "date": 133082507271859782
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_lod6_albd.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_LOD6_ALBD.PNG.DDS",
       "size": 174904,
-      "date": 133003086812547149
+      "date": 133082507271859782
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_lod6_albd.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_LOD6_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 133003086812536801
+      "date": 133082507271869891
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_lod6_comp.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_LOD6_COMP.PNG.DDS",
       "size": 349700,
-      "date": 133003086791850751
+      "date": 133082507271869891
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_lod6_comp.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_LOD6_COMP.PNG.DDS.FLAGS",
       "size": 21,
-      "date": 132648784470000000
+      "date": 133082507271879884
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_lod6_comp.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_LOD6_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 133003086791846270
+      "date": 133082507271879884
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_PAINT_ALBD.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_PAINT_ALBD.PNG.DDS",
       "size": 2872,
-      "date": 133003086506964905
+      "date": 133082507271879884
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_PAINT_ALBD.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_PAINT_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 133003086506964905
+      "date": 133082507271889888
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_prop_blurred.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_PROP_BLURRED.PNG.DDS",
       "size": 349680,
-      "date": 133003086506324119
+      "date": 133082507271899888
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_prop_blurred.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_PROP_BLURRED.PNG.DDS.json",
       "size": 119,
-      "date": 133003086506314146
+      "date": 133082507271899888
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Prop_Still_albd.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_PROP_STILL_ALBD.PNG.DDS",
       "size": 174904,
-      "date": 133003086790118496
+      "date": 133082507271899888
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Prop_Still_albd.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_PROP_STILL_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 133003086790108523
+      "date": 133082507271909883
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Prop_Still_comp.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_PROP_STILL_COMP.PNG.DDS",
       "size": 349700,
-      "date": 133003086772222243
+      "date": 133082507271919887
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Prop_Still_comp.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_PROP_STILL_COMP.PNG.DDS.FLAGS",
       "size": 21,
-      "date": 132648784190000000
+      "date": 133082507271919887
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Prop_Still_comp.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_PROP_STILL_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 133003086772212244
+      "date": 133082507271929903
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Prop_Still_norm.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_PROP_STILL_NORM.PNG.DDS",
       "size": 87536,
-      "date": 133003086501824193
+      "date": 133082507271929903
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Prop_Still_norm.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_PROP_STILL_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 133003086501814218
+      "date": 133082507271929903
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Ribbons_albd.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_RIBBONS_ALBD.PNG.DDS",
       "size": 349680,
-      "date": 133003086503610999
+      "date": 133082507271939892
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Ribbons_albd.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_RIBBONS_ALBD.PNG.DDS.json",
       "size": 119,
-      "date": 133003086503610999
+      "date": 133082507271949892
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Ribbons_comp.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_RIBBONS_COMP.PNG.DDS",
       "size": 349700,
-      "date": 133003086505819084
+      "date": 133082507271959894
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Ribbons_comp.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_RIBBONS_COMP.PNG.DDS.FLAGS",
       "size": 21,
-      "date": 132648784190000000
+      "date": 133082507271969894
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Ribbons_comp.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_RIBBONS_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 133003086505819084
+      "date": 133082507271969894
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Ribbons_norm.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_RIBBONS_NORM.PNG.DDS",
       "size": 349680,
-      "date": 133003086505983635
+      "date": 133082507271979898
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Ribbons_norm.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_RIBBONS_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 133003086505983635
+      "date": 133082507271989890
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_tires_albd.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_TIRES_ALBD.PNG.DDS",
       "size": 699192,
-      "date": 133003086522266435
+      "date": 133082507272029902
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_tires_albd.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_TIRES_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 133003086522256466
+      "date": 133082507272039893
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_tires_comp.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_TIRES_COMP.PNG.DDS",
       "size": 1398276,
-      "date": 133003086527089575
+      "date": 133082507272120153
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_tires_comp.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_TIRES_COMP.PNG.DDS.FLAGS",
       "size": 21,
-      "date": 132648784190000000
+      "date": 133082507272129826
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_tires_comp.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_TIRES_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 133003086527079587
+      "date": 133082507272129826
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_tires_norm.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_TIRES_NORM.PNG.DDS",
       "size": 1398256,
-      "date": 133003086527698364
+      "date": 133082507272190161
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_tires_norm.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_TIRES_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 133003086527688389
+      "date": 133082507272200167
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Wings_albd.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_WINGS_ALBD.PNG.DDS",
       "size": 2796344,
-      "date": 133003086774669900
+      "date": 133082507272210186
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Wings_albd.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 133003086774649956
+      "date": 133082507272220162
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Wings_comp.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_WINGS_COMP.PNG.DDS",
       "size": 5592580,
-      "date": 133003086789899127
+      "date": 133082507272409907
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Wings_comp.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_WINGS_COMP.PNG.DDS.FLAGS",
       "size": 21,
-      "date": 132648784190000000
+      "date": 133082507272429904
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Wings_comp.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_WINGS_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 133003086789879180
+      "date": 133082507272439908
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Wings_norm.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_WINGS_NORM.PNG.DDS",
       "size": 5592560,
-      "date": 133003086508219182
+      "date": 133082507272579920
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_AIRFRAME_Wings_norm.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_AIRFRAME_WINGS_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 133003086508189265
+      "date": 133082507272609915
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_CABIN_ALBD.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_CABIN_ALBD.PNG.DDS",
       "size": 2796344,
-      "date": 133003086712216283
+      "date": 133082507272659923
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_CABIN_ALBD.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_CABIN_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 133003086712196336
+      "date": 133082507272669914
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_CABIN_COMP.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_CABIN_COMP.PNG.DDS",
       "size": 5592580,
-      "date": 133003086727572183
+      "date": 133082507272879893
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_CABIN_COMP.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_CABIN_COMP.PNG.DDS.FLAGS",
       "size": 21,
-      "date": 132648784190000000
+      "date": 133082507272909906
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_CABIN_COMP.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_CABIN_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 133003086727542204
+      "date": 133082507272919905
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_CABIN_NORM.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_CABIN_NORM.PNG.DDS",
       "size": 5592560,
-      "date": 133003086728857215
+      "date": 133082507273009907
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_CABIN_NORM.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_CABIN_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 133003086728837262
+      "date": 133082507273039935
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_Cockpit_Carpet_albd.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_CARPET_ALBD.PNG.DDS",
       "size": 699192,
-      "date": 133003086704208635
+      "date": 133082507273070004
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_Cockpit_Carpet_albd.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_CARPET_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 133003086704208635
+      "date": 133082507273079865
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_Cockpit_Carpet_norm.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_CARPET_NORM.PNG.DDS",
       "size": 1398256,
-      "date": 133003086705366293
+      "date": 133082507273119869
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_Cockpit_Carpet_norm.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_CARPET_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 133003086705356321
+      "date": 133082507273129872
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_Decals_albd.tif.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_DECALS_ALBD.TIF.DDS",
       "size": 1398256,
-      "date": 133003086652477633
+      "date": 133082507273159869
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_Decals_albd.tif.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_DECALS_ALBD.TIF.DDS.FLAGS",
       "size": 18,
-      "date": 132246928240000000
+      "date": 133082507273169860
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_Decals_albd.tif.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_DECALS_ALBD.TIF.DDS.json",
       "size": 119,
-      "date": 133003086652467661
+      "date": 133082507273169860
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_Decals_comp.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_DECALS_COMP.PNG.DDS",
       "size": 87556,
-      "date": 133003086653630447
+      "date": 133082507273179876
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_Decals_comp.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_DECALS_COMP.PNG.DDS.FLAGS",
       "size": 21,
-      "date": 132648784190000000
+      "date": 133082507273179876
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_Decals_comp.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_DECALS_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 133003086653630447
+      "date": 133082507273189869
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_Decals_emis.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_DECALS_EMIS.PNG.DDS",
       "size": 699192,
-      "date": 133003086654761457
+      "date": 133082507273209873
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_Decals_emis.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_DECALS_EMIS.PNG.DDS.FLAGS",
       "size": 18,
-      "date": 132246928210000000
+      "date": 133082507273209873
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_Decals_emis.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_DECALS_EMIS.PNG.DDS.json",
       "size": 102,
-      "date": 133003086654761457
+      "date": 133082507273209873
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_Decals_norm.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_DECALS_NORM.PNG.DDS",
       "size": 349680,
-      "date": 133003086653709457
+      "date": 133082507273219844
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_Decals_norm.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_DECALS_NORM.PNG.DDS.json",
       "size": 177,
-      "date": 133003086653699485
+      "date": 133082507273229861
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_Gauges_albd.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_GAUGES_ALBD.PNG.DDS",
       "size": 2796344,
-      "date": 133003086681424353
+      "date": 133082507273279847
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_Gauges_albd.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_GAUGES_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 133003086681414379
+      "date": 133082507273299848
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_INPUTS_ALBD.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_INPUTS_ALBD.PNG.DDS",
       "size": 2796344,
-      "date": 133003086632238203
+      "date": 133082507273339839
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_INPUTS_ALBD.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_INPUTS_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 133003086632218261
+      "date": 133082507273359845
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_INPUTS_COMP.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_INPUTS_COMP.PNG.DDS",
       "size": 5592580,
-      "date": 133003086649194593
+      "date": 133082507273649877
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_INPUTS_COMP.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_INPUTS_COMP.PNG.DDS.FLAGS",
       "size": 21,
-      "date": 132648784190000000
+      "date": 133082507273669880
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_INPUTS_COMP.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_INPUTS_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 133003086649174563
+      "date": 133082507273669880
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_INPUTS_EMIS.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_INPUTS_EMIS.PNG.DDS",
       "size": 312,
-      "date": 133003086651619921
+      "date": 133082507273669880
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_INPUTS_EMIS.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_INPUTS_EMIS.PNG.DDS.json",
       "size": 102,
-      "date": 133003086651619921
+      "date": 133082507273679889
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_INPUTS_NORM.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_INPUTS_NORM.PNG.DDS",
       "size": 5592560,
-      "date": 133003086650702370
+      "date": 133082507273849878
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_INPUTS_NORM.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_INPUTS_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 133003086650672451
+      "date": 133082507273889882
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_Light_emis.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_LIGHTBULBS_ALBD.PNG.DDS",
+      "size": 699192,
+      "date": 133082507273919886
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_LIGHTBULBS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133082507273919886
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_LIGHTBULBS_EMIS.PNG.DDS",
+      "size": 699192,
+      "date": 133082507273949885
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_LIGHTBULBS_EMIS.PNG.DDS.json",
+      "size": 102,
+      "date": 133082507273949885
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_LIGHT_EMIS.PNG.DDS",
       "size": 43920,
-      "date": 133003086708468019
+      "date": 133082507273889882
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_Light_emis.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_LIGHT_EMIS.PNG.DDS.json",
       "size": 119,
-      "date": 133003086708458044
+      "date": 133082507273899884
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_lightbulbs_albd.png.DDS",
-      "size": 699192,
-      "date": 133003086707410840
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_lightbulbs_albd.png.DDS.json",
-      "size": 102,
-      "date": 133003086707410840
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_lightbulbs_emis.png.DDS",
-      "size": 699192,
-      "date": 133003086708388233
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_lightbulbs_emis.png.DDS.json",
-      "size": 102,
-      "date": 133003086708378258
-    },
-    {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_PANEL_ALBD.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_PANEL_ALBD.PNG.DDS",
       "size": 2796344,
-      "date": 133003086658378643
+      "date": 133082507274019869
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_PANEL_ALBD.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_PANEL_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 133003086658368668
+      "date": 133082507274029880
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_PANEL_COMP.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_PANEL_COMP.PNG.DDS",
       "size": 5592580,
-      "date": 133003086674505357
+      "date": 133082507274239912
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_PANEL_COMP.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_PANEL_COMP.PNG.DDS.FLAGS",
       "size": 21,
-      "date": 132648784190000000
+      "date": 133082507274279886
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_PANEL_COMP.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_PANEL_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 133003086674485393
+      "date": 133082507274279886
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_PANEL_EMIS.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_PANEL_EMIS.PNG.DDS",
       "size": 174904,
-      "date": 133003086676773098
+      "date": 133082507274279886
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_PANEL_EMIS.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_PANEL_EMIS.PNG.DDS.json",
       "size": 102,
-      "date": 133003086676763127
+      "date": 133082507274289917
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_PANEL_NORM.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_PANEL_NORM.PNG.DDS",
       "size": 5592560,
-      "date": 133003086676508036
+      "date": 133082507274389916
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_PANEL_NORM.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_PANEL_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 133003086676488090
+      "date": 133082507274429918
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_PEDALS_ALBD.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_PEDALS_ALBD.PNG.DDS",
       "size": 2796344,
-      "date": 133003086584860606
+      "date": 133082507274539913
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_PEDALS_ALBD.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_PEDALS_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 133003086584840314
+      "date": 133082507274559931
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_PEDALS_COMP.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_PEDALS_COMP.PNG.DDS",
       "size": 5592580,
-      "date": 133003086602688248
+      "date": 133082507274789929
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_PEDALS_COMP.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_PEDALS_COMP.PNG.DDS.FLAGS",
       "size": 21,
-      "date": 132648784190000000
+      "date": 133082507274809935
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_PEDALS_COMP.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_PEDALS_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 133003086602656847
+      "date": 133082507274819900
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_PEDALS_NORM.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_PEDALS_NORM.PNG.DDS",
       "size": 5592560,
-      "date": 133003086609705393
+      "date": 133082507275039904
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_PEDALS_NORM.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_PEDALS_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 133003086609685447
+      "date": 133082507275079922
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_PSIGAUGE_ALBD.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_PSIGAUGE_ALBD.PNG.DDS",
       "size": 699192,
-      "date": 133003086682541376
+      "date": 133082507275109913
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_PSIGAUGE_ALBD.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_PSIGAUGE_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 133003086682541376
+      "date": 133082507275109913
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_SEATS_ALBD.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_SEATS_ALBD.PNG.DDS",
       "size": 2796344,
-      "date": 133003086555119658
+      "date": 133082507275209920
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_SEATS_ALBD.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_SEATS_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 133003086555099713
+      "date": 133082507275229923
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_SEATS_COMP.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_SEATS_COMP.PNG.DDS",
       "size": 5592580,
-      "date": 133003086573401043
+      "date": 133082507275489940
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_SEATS_COMP.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_SEATS_COMP.PNG.DDS.FLAGS",
       "size": 21,
-      "date": 132648784190000000
+      "date": 133082507275520219
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_SEATS_COMP.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_SEATS_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 133003086573381078
+      "date": 133082507275520219
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_SEATS_NORM.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_SEATS_NORM.PNG.DDS",
       "size": 5592560,
-      "date": 133003086579449210
+      "date": 133082507275729958
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_SEATS_NORM.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_SEATS_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 133003086579418648
+      "date": 133082507275759954
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_SHELL_ALBD.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_SHELL_ALBD.PNG.DDS",
       "size": 2796344,
-      "date": 133003086612617624
+      "date": 133082507275809995
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_SHELL_ALBD.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_SHELL_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 133003086612607650
+      "date": 133082507275830194
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_SHELL_COMP.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_SHELL_COMP.PNG.DDS",
       "size": 5592580,
-      "date": 133003086627424589
+      "date": 133082507276049940
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_SHELL_COMP.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_SHELL_COMP.PNG.DDS.FLAGS",
       "size": 21,
-      "date": 132648784190000000
+      "date": 133082507276069954
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_SHELL_COMP.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_SHELL_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 133003086627390639
+      "date": 133082507276069954
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_SHELL_NORM.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_SHELL_NORM.PNG.DDS",
       "size": 5592560,
-      "date": 133003086628778773
+      "date": 133082507276199994
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_SHELL_NORM.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_SHELL_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 133003086628748853
+      "date": 133082507276219979
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_SUN_VISOR_ALBD.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_SUN_VISOR_ALBD.PNG.DDS",
       "size": 43832,
-      "date": 133003086705466030
+      "date": 133082507276219979
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_SUN_VISOR_ALBD.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_SUN_VISOR_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 133003086705456054
+      "date": 133082507276219979
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_SUN_VISOR_norm.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_SUN_VISOR_NORM.PNG.DDS",
       "size": 349680,
-      "date": 133003086706443421
+      "date": 133082507276229985
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_SUN_VISOR_norm.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_SUN_VISOR_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 133003086706443421
+      "date": 133082507276239989
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_YOKE_ALBD.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_YOKE_ALBD.PNG.DDS",
       "size": 2796344,
-      "date": 133003086685822985
+      "date": 133082507276269993
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_YOKE_ALBD.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_YOKE_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 133003086685803039
+      "date": 133082507276279967
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_YOKE_COMP.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_YOKE_COMP.PNG.DDS",
       "size": 5592580,
-      "date": 133003086701701447
+      "date": 133082507276500001
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_YOKE_COMP.png.DDS.FLAGS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_YOKE_COMP.PNG.DDS.FLAGS",
       "size": 21,
-      "date": 132648784190000000
+      "date": 133082507276529965
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_YOKE_COMP.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_YOKE_COMP.PNG.DDS.json",
       "size": 191,
-      "date": 133003086701681418
+      "date": 133082507276529965
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_YOKE_NORM.png.DDS",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_YOKE_NORM.PNG.DDS",
       "size": 5592560,
-      "date": 133003086703069421
+      "date": 133082507276609979
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/BARONG58_COCKPIT_YOKE_NORM.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARONG58_COCKPIT_YOKE_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 133003086703049475
+      "date": 133082507276629966
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/Flight_Simulator_Logo.png.DDS",
-      "size": 496,
-      "date": 133003086791890670
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARON_AIRFRAME_LOGOS_ALBD.TIF.DDS",
+      "size": 5592560,
+      "date": 133082507270799842
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/Flight_Simulator_Logo.png.DDS.json",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/BARON_AIRFRAME_LOGOS_ALBD.TIF.DDS.json",
       "size": 119,
-      "date": 133003086791880755
+      "date": 133082507270829855
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/texture.CFG",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/FLIGHT_SIMULATOR_LOGO.PNG.DDS",
+      "size": 496,
+      "date": 133082507276639981
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/FLIGHT_SIMULATOR_LOGO.PNG.DDS.json",
+      "size": 119,
+      "date": 133082507276639981
+    },
+    {
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/texture.CFG",
       "size": 254,
-      "date": 132648709950000000
+      "date": 133082507276639981
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/thumbnail.JPG",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/thumbnail.JPG",
       "size": 193931,
-      "date": 132701440630000000
+      "date": 133082507276649977
     },
     {
-      "path": "SimObjects/Airplanes/Asobo_Baron_G58/texture/thumbnail_small.JPG",
+      "path": "SimObjects/Airplanes/Baron_G58_Improvement_Project/TEXTURE/thumbnail_small.JPG",
       "size": 36356,
-      "date": 132701445660000000
-    },
-    {
-      "path": "sv-SE.locPak",
-      "size": 1419,
-      "date": 133003086818728693
-    },
-    {
-      "path": "zh-CN.locPak",
-      "size": 1241,
-      "date": 133003086818738649
-    },
-    {
-      "path": "SimObjects/pvqyrcbi.fsarchive",
-      "size": 96352,
-      "date": 133004658415956646
-    },
-    {
-      "path": "SimObjects/ptcsjobc.fsarchive",
-      "size": 23639283,
-      "date": 133004658416697133
+      "date": 133082507276659976
     }
   ]
 }

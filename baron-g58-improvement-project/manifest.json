@@ -8,8 +8,8 @@
   "content_type": "AIRCRAFT",
   "title": "Beechcraft Baron G58",
   "manufacturer": "Textron Aviation",
-  "creator": "Asobo Studio",
-  "package_version": "0.1.75",
+  "creator": "CaptMatto",
+  "package_version": "0.1",
   "minimum_game_version": "1.27.5",
   "release_notes": {
     "neutral": {
@@ -17,5 +17,5 @@
       "OlderHistory": ""
     }
   },
-  "total_package_size": "00000000000347466603"
+  "total_package_size": "00000000000216817190"
 }

@@ -2,6 +2,15 @@
 
 ## This is a WIP project and definitely not ready to download or test!
 
+**Flight Model**
+* Added CFD & Modern Prop model, not tweaked
+
+**Weight & Balance Changes**
+ * Fuel Tank Size changed to 200 Gallons total, 194 useable [p70, POH]
+ * Addition of missing seats and baggage compartments (Help by @meh1951)
+ * Empty weight changed to 3965 lbs [Textron Site]
+
+
 **Items to Investigate**
 * @CerealThread201 - https://forums.flightsimulator.com/t/pros-and-cons-of-the-baron-g58/335280/4
 * @JuiceBox7535 - Feathering & Air starts https://forums.flightsimulator.com/t/pros-and-cons-of-the-baron-g58/335280/9

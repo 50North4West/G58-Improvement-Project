@@ -6,9 +6,12 @@
 * Added CFD & Modern Prop model, not tweaked
 
 **Weight & Balance Changes**
- * Fuel Tank Size changed to 200 Gallons total, 194 useable [p70, POH]
- * Addition of missing seats and baggage compartments (Help by @meh1951)
- * Empty weight changed to 3965 lbs [Textron Site]
+* Fuel Tank Size changed to 200 Gallons total, 194 useable [p70, POH]
+* Addition of missing seats and baggage compartments (Help by @meh1951)
+* Empty weight changed to 3965 lbs [Textron Site]
+
+**Misc**
+* ATC references the aircraft as "Baron"
 
 
 **Items to Investigate**

@@ -10,6 +10,14 @@
 * Addition of missing seats and baggage compartments (Help by @meh1951)
 * Empty weight changed to 3965 lbs [Textron Site]
 
+**Engine**
+* Changed max oil temp and pressure [p69, POH]
+* Changed Cylinder Head max temp [p73, POH]
+
+**Electrical System**
+* Changed batteries amp hours to reflect reality, 13ah
+* Changed battery discharge curve to match deep cycle lead acid battery 
+
 **Misc**
 * ATC references the aircraft as "Baron"
 

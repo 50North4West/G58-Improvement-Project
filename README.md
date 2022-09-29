@@ -15,8 +15,9 @@
 * Changed Cylinder Head max temp [p73, POH]
 
 **Electrical System**
-* Changed batteries amp hours to reflect reality, 13ah
-* Changed battery discharge curve to match deep cycle lead acid battery 
+* Changed batteries amp hours to reflect reality, 13ah [p339, POH]
+* Changed battery discharge curve to match deep cycle lead acid battery
+* Changed alternator curve to match real unit, changed alternator rated voltage to match real unit
 
 **Misc**
 * ATC references the aircraft as "Baron"
